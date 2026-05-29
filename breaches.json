@@ -1,0 +1,20 @@
+{
+  "alvo_alvo123": {
+    "emails": "alvo_antigo2015@gmail.com, contato@empresaalvo.com",
+    "uids": {
+      "GitHub": "5839201",
+      "Reddit": "t2_9v2x4a"
+    },
+    "hashes": "SHA-1: 9a73b10cfa82d830bef1, MD5: e10adc3949ba59abbe56e057f20f883e",
+    "plataformas": "Canva Leak (2019), LinkedIn Dump (2016)"
+  },
+  "outro_nick_de_teste": {
+    "emails": "teste@domain.com",
+    "uids": {
+      "GitHub": "1234567",
+      "Reddit": "t2_abc123"
+    },
+    "hashes": "MD5: 81dc9bdb52d04dc20036dbd8313ed055",
+    "plataformas": "Adobe Leak (2013)"
+  }
+}
